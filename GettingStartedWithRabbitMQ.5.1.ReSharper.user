@@ -7,8 +7,44 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:DirectProducer.cs/l:C!?apps?atplatforms?dotnet?VisualSpreads?ATPlatforms?ATPlatforms.RabbitSkin?DirectProducer.cs" caret="664" fromTop="19" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:app.config" caret="0" fromTop="0" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Properties/f:AssemblyInfo.cs" caret="797" fromTop="14" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:Program.cs" caret="48" fromTop="1" />
+      <File id="d:Miscellaneous Files/f:Form1.cs/l:C!?apps?atplatforms?dotnet?VisualSpreads?ATPlatforms?ATPlatforms.DBPriceConsumer?Form1.cs" caret="962" fromTop="10" />
+      <File id="d:Miscellaneous Files/f:BaseProducerConsumer.cs/l:C!?apps?atplatforms?dotnet?VisualSpreads?ATPlatforms?ATPlatforms.RabbitSkin?BaseProducerConsumer.cs" caret="1509" fromTop="15" />
+      <File id="d:Miscellaneous Files/f:DirectConsumer.cs/l:C!?apps?atplatforms?dotnet?VisualSpreads?ATPlatforms?ATPlatforms.RabbitSkin?DirectConsumer.cs" caret="804" fromTop="8" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="375" fromTop="14" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="968" fromTop="9" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="1206" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="693" fromTop="20" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="426" fromTop="16" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="2364" fromTop="20" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="2111" fromTop="22" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1727" fromTop="9" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="699" fromTop="9" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="121" fromTop="4" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="933" fromTop="16" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="1563" fromTop="25" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="1316" fromTop="23" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:1-Hello-World.cs" caret="1142" fromTop="15" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/f:Program.cs" caret="48" fromTop="1" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="168" fromTop="4" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="1141" fromTop="20" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="1003" fromTop="23" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Producer.cs" caret="937" fromTop="12" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="2602" fromTop="27" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="2444" fromTop="21" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1347" fromTop="18" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1522" fromTop="23" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1202" fromTop="16" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1954" fromTop="18" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="422" fromTop="7" />
+      <File id="4A6331CD-4DDE-4E75-9AE5-63A8DBB6C69D/d:Example1HelloWorld/f:Consumer.cs" caret="1041" fromTop="6" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +56,44 @@
     <NUnitInstallDir>C:\Program Files\NUnit 2.5\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="5" />
+      <Item value="Producer`0" priority="2" />
+      <Item value="String`0" priority="1" />
+      <Item value="string" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="byte" priority="2" />
+      <Item value="protected" priority="1" />
+      <Item value="queueName" priority="0" />
+      <Item value="IBasicConsumer`0" priority="0" />
+      <Item value="Consumer`0" priority="1" />
+      <Item value="QueueingBasicConsumer`0" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="producer" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="true" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RabbitMQ.Client.IModel">
+      <Item value="QueueDeclare`0" priority="2" />
+      <Item value="BasicConsume`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingStartedWithRabbitMQ.Example1HelloWorld.Consumer">
+      <Item value="onMessageReceived" priority="0" />
+      <Item value="Consume`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingStartedWithRabbitMQ.Example1HelloWorld.Producer">
+      <Item value="sendMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
