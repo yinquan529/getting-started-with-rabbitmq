@@ -1,0 +1,10 @@
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\bin\Debug\GettingStartedWithRabbitMQ.exe.config
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.Form1.resources
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.Properties.Resources.resources
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\bin\Debug\GettingStartedWithRabbitMQ.exe
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\bin\Debug\GettingStartedWithRabbitMQ.pdb
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.exe
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.pdb
