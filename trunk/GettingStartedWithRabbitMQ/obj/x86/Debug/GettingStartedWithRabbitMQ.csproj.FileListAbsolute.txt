@@ -8,3 +8,4 @@ C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbi
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\bin\Debug\GettingStartedWithRabbitMQ.pdb
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.exe
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.pdb
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ._2_Work_Queues.resources
