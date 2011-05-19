@@ -14,7 +14,7 @@ namespace GettingStartedWithRabbitMQ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new _2_Work_Queues());
+            Application.Run(new PubSub_Producer());
         }
     }
 }
