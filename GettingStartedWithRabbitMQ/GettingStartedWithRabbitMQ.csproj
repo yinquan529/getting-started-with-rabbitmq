@@ -49,6 +49,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="RabbitMQ.Client, Version=2.4.1.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -62,29 +66,50 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1-Hello-World.cs">
+    <Compile Include="Example1HelloWorld\1-Hello-World.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="1-Hello-World.Designer.cs">
+    <Compile Include="Example1HelloWorld\1-Hello-World.Designer.cs">
       <DependentUpon>1-Hello-World.cs</DependentUpon>
     </Compile>
-    <Compile Include="2-Work-Queues.cs">
+    <Compile Include="Example2WorkQueues\2-Work-Queues.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="2-Work-Queues.Designer.cs">
+    <Compile Include="Example2WorkQueues\2-Work-Queues.Designer.cs">
       <DependentUpon>2-Work-Queues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Example3PubSub\3-PubSub-Consumer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Example3PubSub\3-PubSub-Consumer.Designer.cs">
+      <DependentUpon>3-PubSub-Consumer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Example3PubSub\3-PubSub-Producer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Example3PubSub\3-PubSub-Producer.Designer.cs">
+      <DependentUpon>3-PubSub-Producer.cs</DependentUpon>
     </Compile>
     <Compile Include="Example1HelloWorld\Consumer.cs" />
     <Compile Include="Example1HelloWorld\Producer.cs" />
     <Compile Include="Example2WorkQueues\Consumer.cs" />
     <Compile Include="Example2WorkQueues\Producer.cs" />
+    <Compile Include="Example3PubSub\Consumer.cs" />
+    <Compile Include="Example3PubSub\IConnectToRabbitMQ.cs" />
+    <Compile Include="Example3PubSub\Producer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="1-Hello-World.resx">
+    <EmbeddedResource Include="Example1HelloWorld\1-Hello-World.resx">
       <DependentUpon>1-Hello-World.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="2-Work-Queues.resx">
+    <EmbeddedResource Include="Example2WorkQueues\2-Work-Queues.resx">
       <DependentUpon>2-Work-Queues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Example3PubSub\3-PubSub-Consumer.resx">
+      <DependentUpon>3-PubSub-Consumer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Example3PubSub\3-PubSub-Producer.resx">
+      <DependentUpon>3-PubSub-Producer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

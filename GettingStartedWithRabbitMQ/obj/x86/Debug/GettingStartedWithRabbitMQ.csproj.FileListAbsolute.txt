@@ -9,3 +9,5 @@ C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbi
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.exe
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.pdb
 C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ._2_Work_Queues.resources
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.PubSub_Consumer.resources
+C:\apps\blog\rabbitMQarticles\GettingStartedWithRabbitMQ\GettingStartedWithRabbitMQ\obj\x86\Debug\GettingStartedWithRabbitMQ.PubSub_Producer.resources

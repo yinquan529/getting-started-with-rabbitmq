@@ -8,6 +8,7 @@ namespace GettingStartedWithRabbitMQ.Example1HelloWorld
     public class Producer : IDisposable
     {
 
+
         protected IModel Model;
         protected IConnection Connection;
         protected string QueueName;
