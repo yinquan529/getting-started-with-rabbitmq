@@ -54,7 +54,7 @@
     </StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="RabbitMQ.Client, Version=2.4.1.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL">
+    <Reference Include="RabbitMQ.Client, Version=1.8.1.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\RabbitMQ.Client.dll</HintPath>
     </Reference>
@@ -95,8 +95,22 @@
     <Compile Include="Example2WorkQueues\Consumer.cs" />
     <Compile Include="Example2WorkQueues\Producer.cs" />
     <Compile Include="Example3PubSub\Consumer.cs" />
-    <Compile Include="Example3PubSub\IConnectToRabbitMQ.cs" />
+    <Compile Include="Example4Routing\4-Routing-Consumer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Example4Routing\4-Routing-Consumer.Designer.cs">
+      <DependentUpon>4-Routing-Consumer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Example4Routing\4-Routing-Producer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Example4Routing\4-Routing-Producer.Designer.cs">
+      <DependentUpon>4-Routing-Producer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IConnectToRabbitMQ.cs" />
     <Compile Include="Example3PubSub\Producer.cs" />
+    <Compile Include="Example4Routing\Consumer.cs" />
+    <Compile Include="Example4Routing\Producer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Example1HelloWorld\1-Hello-World.resx">
@@ -110,6 +124,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Example3PubSub\3-PubSub-Producer.resx">
       <DependentUpon>3-PubSub-Producer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Example4Routing\4-Routing-Producer.resx">
+      <DependentUpon>4-Routing-Producer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
