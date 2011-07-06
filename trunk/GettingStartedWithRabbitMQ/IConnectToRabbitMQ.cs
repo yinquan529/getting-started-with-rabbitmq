@@ -4,7 +4,7 @@ using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Exceptions;
 
-namespace GettingStartedWithRabbitMQ.Example3PubSub
+namespace GettingStartedWithRabbitMQ
 {
     public abstract class IConnectToRabbitMQ : IDisposable
     {
